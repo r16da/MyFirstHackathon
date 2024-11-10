@@ -1,0 +1,18 @@
+body{
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-weight: bolder;
+    animation: both;
+    border: 0cap;
+    padding: auto;
+
+}
+.container {
+    max-width: 900px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
